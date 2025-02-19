@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.968" height="51.61" viewBox="0 0 52.968 51.61">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_41" data-name="Rectangle 41" width="42.464" height="35.265" fill="#3b4f66" stroke="#fff" stroke-width="1.5"></rect>
+    </clipPath>
+  </defs>
+  <g id="Groupe_176" data-name="Groupe 176" transform="translate(-1607.947 -824.205)">
+    <g id="Tracé_265" data-name="Tracé 265" transform="translate(1640.821 830.135) rotate(30)" fill="none">
+      <path d="M8.177,0A8.177,8.177,0,1,1,0,8.177,8.177,8.177,0,0,1,8.177,0Z" stroke="none"></path>
+      <path d="M 8.177480697631836 1.500000953674316 C 4.495511054992676 1.500000953674316 1.500000953674316 4.495511054992676 1.500000953674316 8.177480697631836 C 1.500000953674316 11.85945129394531 4.495511054992676 14.85496044158936 8.177480697631836 14.85496044158936 C 11.85945129394531 14.85496044158936 14.85496044158936 11.85945129394531 14.85496044158936 8.177480697631836 C 14.85496044158936 4.495511054992676 11.85945129394531 1.500000953674316 8.177480697631836 1.500000953674316 M 8.177480697631836 0 C 12.69378089904785 0 16.35496139526367 3.66118049621582 16.35496139526367 8.177480697631836 C 16.35496139526367 12.69378089904785 12.69378089904785 16.35496139526367 8.177480697631836 16.35496139526367 C 3.66118049621582 16.35496139526367 0 12.69378089904785 0 8.177480697631836 C 0 3.66118049621582 3.66118049621582 0 8.177480697631836 0 Z" stroke="none" fill="#f6cd7d"></path>
+    </g>
+    <line id="Ligne_14" data-name="Ligne 14" y1="5.18" transform="translate(1644.342 824.955)" fill="none" stroke="#f6cd7d" stroke-linecap="round" stroke-width="1.5"></line>
+    <line id="Ligne_15" data-name="Ligne 15" x2="5.18" transform="translate(1654.985 841.306)" fill="none" stroke="#f6cd7d" stroke-linecap="round" stroke-width="1.5"></line>
+    <line id="Ligne_16" data-name="Ligne 16" y1="3.138" x2="3.572" transform="translate(1652.374 830.23)" fill="none" stroke="#f6cd7d" stroke-linecap="round" stroke-width="1.5"></line>
+    <line id="Ligne_17" data-name="Ligne 17" x1="3.572" y1="3.138" transform="translate(1631.913 830.23)" fill="none" stroke="#f6cd7d" stroke-linecap="round" stroke-width="1.5"></line>
+    <path id="Tracé_266" data-name="Tracé 266" d="M352.183,897.029h14.8l4.483,14.475-17.933,1.582-10.285-5.538Z" transform="translate(1278.675 -57.802)" fill="#fff"></path>
+    <g id="Groupe_68" data-name="Groupe 68" transform="translate(1607.947 840.55)">
+      <g id="Groupe_42" data-name="Groupe 42" clip-path="url(#clip-path)">
+        <path id="Tracé_246" data-name="Tracé 246" d="M16.332,32H6.348v3.266H35.983V32H26.132V27.208H42.464V19.041a1.632,1.632,0,0,0-.06-.435h0L37.257,0H5.207L.059,18.606h0a1.628,1.628,0,0,0-.06.435v8.166H16.332Zm6.533,0H19.6V27.208h3.266Zm15.819-14.59H31.3l-1.019-5.444h6.9ZM34.768,3.254,36.274,8.7H29.667L28.648,3.254Zm-17.628,0h8.184L26.344,8.7H16.12Zm-1.631,8.711H26.956l1.019,5.444H14.489ZM7.7,3.254h6.121L12.8,8.7H6.19Zm-2.41,8.711h6.9l-1.02,5.444H3.78Zm-2.019,8.71H39.2v3.266H3.266Z" fill="#3b4f66" stroke="#fff" stroke-width="1.5"></path>
+      </g>
+    </g>
+    <g id="Rectangle_53" data-name="Rectangle 53" transform="translate(1610 860)" fill="#f6cd7d" stroke="#f6cd7d" stroke-width="0.5">
+      <rect width="38" height="6" stroke="none"></rect>
+      <rect x="0.25" y="0.25" width="37.5" height="5.5" fill="none"></rect>
+    </g>
+  </g>
+</svg>

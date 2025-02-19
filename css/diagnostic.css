@@ -1,0 +1,271 @@
+.n-diagnostic-banner.n-banner.n-banner {
+    height: auto;
+    overflow: visible;
+}
+.n-diagnostic-banner .n-banner-title-content {
+    background-color: #3B4F66;
+    text-align: left;
+    align-items: flex-start;
+    padding-left: 117px;
+}
+.n-diagnostic-banner .n-banner-title-content::before {
+    content: '';
+    background-image: url('../images/deco-banner-top.png');
+    display: block;
+    width: 400px;
+    height: 272px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 0 12px 0 0;
+}
+.n-diagnostic-banner .n-banner-title-content::after {
+    content: '';
+    background-image: url('../images/deco-banner-bottom.png');
+    position: absolute;
+    bottom: 0;
+    width: 560px;
+    left: 0;
+    height: 400px;
+    background-size: cover;
+    border-radius: 0 0 0 12px;
+}
+.n-diagnostic-banner .n-banner-title-content .n-wysiwyg {
+    margin-top: 31px;
+    margin-bottom: 31px;
+}
+.n-diagnostic-banner .n-banner-title-content .n-wysiwyg p {
+    text-transform: initial;
+    font-size: 23px;
+    line-height: 31px;
+}
+.n-banner-illustration {
+    position: absolute;
+    bottom: -30px;
+    z-index: 2;
+    right: 100px
+}
+.n-diagnostic-step {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.n-diagnostic-step-wrapper {
+    display: flex;
+    gap: 100px;
+}
+.n-diagnostic-item:first-child {
+    width: 52%;
+}
+.n-diagnostic-item {
+    width: 48%;
+}
+.n-diagnostic-image {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.n-diagnostic-image img {
+    border-radius: 12px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.n-diagnostic-num {
+    font-family: 'League Spartan';
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: 700;
+    color: #509993;
+}
+.n-diagnostic-title h2 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #3B4F66;
+    line-height: 60px;
+}
+.n-diagnostic-step-wrapper .n-wysiwyg {
+    margin: 50px 0;
+}
+.n-diagnostic-step-wrapper .n-wysiwyg p,
+.n-diagnostic-step-wrapper .n-wysiwyg li {
+    color: #3E5F7D;
+    opacity: 0.75;
+    font-size: 23px;
+    line-height: 31px;
+}
+.n-diagnostic-step-wrapper .n-wysiwyg li {
+    background-position: left center;
+    margin-bottom: 20px;
+}
+.n-diagnostic-step-wrapper .n-wysiwyg li strong {
+    /* display: block; */
+}
+.n-diagnostic-cta {
+    position: relative;
+}
+.n-diagnostic-cta::before {
+    content: '';
+    display: block;
+    position: absolute;
+    height: 50%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff;
+    z-index: -1;
+}
+.n-diagnostic-cta .n-wrapper-diagnostic {
+    padding: 72px 20px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 50px #6385A238;
+    border-radius: 12px;
+    background-image: url(../images/deco-top.svg);
+    background-repeat: no-repeat;
+    background-position: top -2px right -2px;
+}
+.n-diagnostic-cta .n-bloc-title {
+    margin-top: 0;
+}
+.n-diagnostic-cta-listing {
+    display: flex;
+    justify-content: space-around;
+    margin: 131px 0 100px 0;
+}
+.n-diagnostic-cta-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    text-align: center;
+}
+.n-diagnostic-cta-titre {
+    font-family: 'League Spartan';
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 31px;
+    color: #EB987A;
+}
+.n-center-txt {
+    text-align: center;
+}
+.n-diagnostic-cta + .n-diagnostic-txt-full {
+    padding: 131px 0 0;
+}
+.n-diagnostic-txt-full .n-wysiwyg p {
+    color: #3E5F7D;
+    text-align: center;
+    font-size: 23px;
+    line-height: 31px;
+}
+.n-diagnostic-txt-full .n-center-txt {
+    margin-top: 50px;
+}
+@media (max-width:1600px) {
+    .n-diagnostic-banner .n-banner-title-content {
+        padding-left: 100px;
+    }
+}
+@media (max-width:1400px) {
+    .n-diagnostic-banner .n-banner-title-content {
+        padding-left: 40px;
+    }
+    .n-banner-illustration {
+        max-width: 40%;
+        right: 40px;
+    }
+    .n-banner-illustration img {
+        max-width: 100%;
+    }
+    .n-diagnostic-step {
+        padding: 100px 0;
+    }
+}
+@media (max-width:1024px) {
+    .n-banner-illustration {
+       display: none;
+    }
+    .n-diagnostic-step {
+        padding: 40px 0;
+    }
+    .n-diagnostic-step-wrapper {
+        flex-direction: column;
+        gap: 40px;
+    }
+    .n-diagnostic-step-wrapper .n-wysiwyg {
+        margin:30px 0;
+    }
+    .n-diagnostic-item,
+    .n-diagnostic-item:first-child {
+        width: 100%;
+    }
+    .n-diagnostic-image {
+        max-width: inherit;
+    }
+    .n-diagnostic-cta-listing {
+        margin: 60px 0;
+        flex-wrap: wrap;
+        gap: 40px;
+    }
+    .n-diagnostic-cta-listing .n-diagnostic-cta-item {
+        width: calc(50% - 20px);
+    }
+    .n-diagnostic-txt-full {
+        padding-top: 100px;
+    }
+    .n-diagnostic-cta + .n-diagnostic-txt-full {
+        padding: 100px 0 0;
+    }
+}
+@media (max-width:767px) {
+    .n-diagnostic-banner .n-banner-title-content {
+        padding-left: 20px;
+    }
+    .n-diagnostic-banner .n-banner-title-content::before,
+    .n-diagnostic-banner .n-banner-title-content::after {
+        display: none;
+    }
+    .n-diagnostic-banner .n-banner-title-content {
+        min-height: 350px;
+        height: auto;
+    }
+    .n-diagnostic-banner .n-banner-title-content .n-wysiwyg {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .n-diagnostic-cta-listing .n-diagnostic-cta-item {
+        width: 100%;
+    }
+    .n-diagnostic-txt-full {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .n-diagnostic-cta .n-wrapper-diagnostic {
+        background-image: none;
+        padding: 60px 20px;
+    }
+    .n-diagnostic-cta-titre {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .n-diagnostic-title h2 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .n-diagnostic-cta-item {
+        display: flex !important;
+    }
+    .n-diagnostic-cta-listing .slick-arrow {
+        top: calc(100% - 20px);
+    }
+    .n-diagnostic-cta-listing {
+        padding-bottom: 40px;
+    }
+    .n-diagnostic-cta + .n-diagnostic-txt-full {
+        padding: 40px 0 0;
+    }
+}

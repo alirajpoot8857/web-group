@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68.253" height="38.193" viewBox="0 0 68.253 38.193">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_67" data-name="Rectangle 67" width="68.253" height="22.153" fill="none" stroke="#3b4f66" stroke-width="1.5"></rect>
+    </clipPath>
+  </defs>
+  <g id="Groupe_179" data-name="Groupe 179" transform="translate(-981.333 -836.87)">
+    <g id="Groupe_125" data-name="Groupe 125" transform="translate(981.333 837.93)">
+      <path id="Tracé_288" data-name="Tracé 288" d="M1567.333,934.732l13.538-14.065H1603.2l-13.01,14.065Z" transform="translate(-1565.927 -898.654)" fill="#509993"></path>
+      <g id="Groupe_86" data-name="Groupe 86" transform="translate(0 14.98)">
+        <g id="Groupe_87" data-name="Groupe 87" transform="translate(0 0)">
+          <g id="Groupe_86-2" data-name="Groupe 86" clip-path="url(#clip-path)">
+            <path id="Tracé_286" data-name="Tracé 286" d="M1.5,21.655,21.058,1.5H57.078L36.923,21.655Z" transform="translate(-0.501 -0.501)" fill="none" stroke="#3b4f66" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+            <line id="Ligne_18" data-name="Ligne 18" x1="18.143" y2="20.154" transform="translate(13.26 0.999)" fill="none" stroke="#3b4f66" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></line>
+            <line id="Ligne_19" data-name="Ligne 19" x1="18.143" y2="20.154" transform="translate(24.812 0.999)" fill="none" stroke="#3b4f66" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></line>
+          </g>
+        </g>
+        <line id="Ligne_20" data-name="Ligne 20" x2="30.639" transform="translate(14.939 6.789)" fill="none" stroke="#3b4f66" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></line>
+        <path id="Tracé_287" data-name="Tracé 287" d="M12.838,16.985H48.492l18.586-6.156" transform="translate(-4.285 -3.615)" fill="none" stroke="#3b4f66" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+        <g id="Groupe_89" data-name="Groupe 89" transform="translate(0 0)">
+          <g id="Groupe_88" data-name="Groupe 88" clip-path="url(#clip-path)">
+            <line id="Ligne_21" data-name="Ligne 21" x2="10.676" y2="10.676" transform="translate(56.577 0.999)" fill="none" stroke="#3b4f66" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></line>
+          </g>
+        </g>
+      </g>
+      <g id="Groupe_90" data-name="Groupe 90" transform="translate(32.051)">
+        <path id="Tracé_289" data-name="Tracé 289" d="M1616.254,895.8l-4.871,4.871" transform="translate(-1592.395 -895.8)" fill="none" stroke="#509993" stroke-linecap="round" stroke-width="1.5"></path>
+        <path id="Tracé_293" data-name="Tracé 293" d="M1613.818,895.8l-2.436,2.435" transform="translate(-1603.998 -894.745)" fill="none" stroke="#509993" stroke-linecap="round" stroke-width="1.5"></path>
+        <path id="Tracé_292" data-name="Tracé 292" d="M1616.254,895.8l-4.871,4.871" transform="translate(-1603.998 -890.324)" fill="none" stroke="#509993" stroke-linecap="round" stroke-width="1.5"></path>
+        <path id="Tracé_290" data-name="Tracé 290" d="M1612.438,895.8l-1.055,1.055" transform="translate(-1595.963 -888.416)" fill="none" stroke="#509993" stroke-linecap="round" stroke-width="1.5"></path>
+        <path id="Tracé_294" data-name="Tracé 294" d="M1616.254,895.8l-4.871,4.871" transform="translate(-1611.383 -890.324)" fill="none" stroke="#509993" stroke-linecap="round" stroke-width="1.5"></path>
+        <path id="Tracé_291" data-name="Tracé 291" d="M1612.438,895.8l-1.055,1.055" transform="translate(-1595.435 -894.745)" fill="none" stroke="#509993" stroke-linecap="round" stroke-width="1.5"></path>
+      </g>
+    </g>
+  </g>
+</svg>

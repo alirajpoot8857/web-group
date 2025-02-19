@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="45.37" height="43.088" viewBox="0 0 45.37 43.088">
+  <g id="Groupe_178" data-name="Groupe 178" transform="translate(-1173.63 -838)">
+    <g id="Groupe_127" data-name="Groupe 127" transform="translate(1174.38 838.141)">
+      <g id="Groupe_91" data-name="Groupe 91" transform="translate(0 10.237)">
+        <path id="Tracé_300" data-name="Tracé 300" d="M1761.5,912.571l3.868,4.22,2.11-1.582h.879l3.516,3.868,2.11-2.286-4.571-4.22,2.462-1.934-1.231-1.055,4.747-4.22s-5.626-1.934-9.318,1.407S1761.5,912.571,1761.5,912.571Z" transform="translate(-1756.753 -904.699)" fill="#e2dfd8"></path>
+        <path id="Union_2" data-name="Union 2" d="M28.781,30.991c-3.679-3.679-8.066-9.422-11.809-13.616l2.969-2.969c4.129,3.677,9.873,8,13.616,11.743a3.4,3.4,0,0,1-4.775,4.841ZM14.261,15.5l1.032-1.031L17.1,12.665l.968-.968,2.259,2.194-.452.452-2.967,2.969-.452.387ZM0,11.891,2.066,9.826,3.143,10.9,5.184,8.864l2.054,2.052L5.2,12.957l1.385,1.386L4.518,16.408Zm10.876-1.841L8.648,12.277a.3.3,0,0,1-.031-.031L4.131,7.76l6.2-6.194A8.614,8.614,0,0,1,18.392.6l-4.5,4.5c.39.4.724.744.949.986L12.656,8.27l4.391,4.39L15.267,14.44Z" transform="translate(0 0)" fill="none" stroke="#3b4f66" stroke-linejoin="round" stroke-width="1.5"></path>
+      </g>
+      <g id="Groupe_92" data-name="Groupe 92" transform="translate(24.263)">
+        <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(0.356 -0.141)" fill="#fff" stroke="#3b4f66" stroke-width="1.5">
+          <circle cx="3" cy="3" r="3" stroke="none"></circle>
+          <circle cx="3" cy="3" r="2.25" fill="none"></circle>
+        </g>
+        <circle id="Ellipse_8" data-name="Ellipse 8" cx="2.5" cy="2.5" r="2.5" transform="translate(0.356 13.859)" fill="#e2dfd8"></circle>
+        <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(10.356 3.859)" fill="#fff" stroke="#3b4f66" stroke-width="1.5">
+          <circle cx="5" cy="5" r="5" stroke="none"></circle>
+          <circle cx="5" cy="5" r="4.25" fill="none"></circle>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

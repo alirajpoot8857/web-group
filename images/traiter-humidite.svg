@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.673" height="38.291" viewBox="0 0 37.673 38.291">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_42" data-name="Rectangle 42" width="30.535" height="34.492" fill="#3b4f66" stroke="#fff" stroke-width="1.5"></rect>
+    </clipPath>
+  </defs>
+  <g id="Groupe_180" data-name="Groupe 180" transform="translate(-790.7 -835.409)">
+    <g id="Groupe_43" data-name="Groupe 43" transform="translate(797.837 839.208)">
+      <g id="Groupe_44" data-name="Groupe 44" clip-path="url(#clip-path)">
+        <path id="Tracé_247" data-name="Tracé 247" d="M30.535,15.694c0-1.631-1-3.87-3.049-6.845-1.408-2.041-2.8-3.676-2.855-3.744L23.347,3.6,22.062,5.1c-.055.065-1.3,1.534-2.631,3.423-2.683-3.847-5.256-6.876-5.379-7.02L12.767,0,11.483,1.508c-.115.135-2.858,3.363-5.644,7.4C1.91,14.606,0,18.8,0,21.725a12.767,12.767,0,0,0,25.507.826,7.2,7.2,0,0,0,5.028-6.856M12.767,31.116a9.4,9.4,0,0,1-9.392-9.392c0-1.23.679-4.278,5.226-10.875C10.15,8.6,11.714,6.581,12.767,5.265c1.175,1.468,2.986,3.816,4.706,6.379a9.054,9.054,0,0,0-1.316,4.05A7.2,7.2,0,0,0,22.1,22.772a9.4,9.4,0,0,1-9.332,8.344M23.347,19.507a3.818,3.818,0,0,1-3.813-3.813c0-1.229,1.8-4.187,3.808-6.8.415.541.892,1.185,1.367,1.874,2.275,3.3,2.452,4.606,2.452,4.928a3.818,3.818,0,0,1-3.813,3.813" fill="#3b4f66" stroke="#fff" stroke-width="1.5"></path>
+      </g>
+    </g>
+    <path id="Tracé_252" data-name="Tracé 252" d="M1567.431,903.714s-4.573,5.209-4.573,8.3,2.329,4.235,4.573,4.235,4.574-1.143,4.574-4.235S1567.431,903.714,1567.431,903.714Z" transform="translate(-746.218 -56.696)" fill="#8fa7b8" stroke="#8fa7b8" stroke-width="0.5"></path>
+    <path id="Tracé_273" data-name="Tracé 273" d="M1566.051,903.714s-3.194,3.637-3.194,5.8,1.626,2.957,3.194,2.957,3.194-.8,3.194-2.957S1566.051,903.714,1566.051,903.714Z" transform="translate(-771.408 -67.556)" fill="none" stroke="#8fa7b8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+  </g>
+</svg>

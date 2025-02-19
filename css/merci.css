@@ -1,0 +1,8 @@
+.n-banner-title-content.n-banner-title-center {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.n-banner-title-content.n-banner-title-center h1 {
+    margin-bottom: 40px;
+}

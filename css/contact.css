@@ -1,0 +1,321 @@
+.n-contact-info {
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.n-contact-info-wrapper {
+    display: flex;
+    gap: 117px;
+    align-items: center;
+}
+.n-contact-image {
+    width: 50%;
+    max-width: 700px;
+}
+.n-contact-image img {
+    border-radius: 12px;
+    max-width: 100%;
+}
+.n-contact-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 45px;
+}
+.n-contact-title {
+    font-size: 50px;
+    line-height: 60px;
+    color: #509993;
+    font-weight: 700;
+    font-family: 'League Spartan';
+}
+.n-contact-desc-item,
+.n-contact-desc-item a,
+.n-contact-desc-item p {
+    font-family: 'League Spartan';
+    font-size: 24px;
+    line-height: 34px;
+    color: #3B4F66;
+    text-decoration: none;
+}
+.n-contact-desc-item a:hover {
+    opacity: 0.75;
+}
+.n-contact-desc-item {
+    padding-left: 45px;
+    background-position: left top 8px;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+}
+.n-contact-adresse {
+    background-image: url('../images/ico-adresse-grey.svg');
+}
+.n-contact-email {
+    background-image: url('../images/ico-email-grey.svg');
+}
+.n-contact-phone {
+    background-image: url('../images/ico-phone-grey.svg');
+}
+.n-contact-form {
+    padding-bottom: 90px;
+}
+.n-contact-form .n-bloc-title {
+    margin-bottom: 45px;
+}
+.n-contact-form-container {
+    max-width: 1360px;
+    margin: auto;
+}
+.n-contact-form-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 22px;
+    color: #5F8199;
+}
+.n-contact-form-row,
+.n-contact-form-row input {
+    font-family: 'League Spartan';
+    font-size: 18px;
+    font-weight: 700;
+}
+.n-contact-form-row input {
+    color: #3B4F66;
+}
+.n-contact-form-row .n-form-bloc,
+.n-select-form {
+    width: calc(50% - 88px);
+    padding: 20px 40px;
+    background: #fff;
+    border-radius: 5px;
+}
+.n-contact-form-row .n-form-bloc {
+    display: flex;
+    flex-direction: column;
+}
+.n-contact-form-row .n-select-form .n-form-bloc {
+    width: initial;
+    padding: 0;
+}
+.n-contact-form-row .n-form-bloc input,
+.n-select-form {
+    border: none;
+}
+.n-contact-form-row .n-form-bloc input + label {
+    margin-top: 10px;
+}
+.n-contact-form-row .n-form-bloc .error {
+    font-size: 16px;
+}
+.n-contact-form-row input::placeholder {
+    color: #5F8199;
+    opacity: 1;
+}
+.n-contact-form-row input::-moz-placeholder {
+    color: #5F8199;
+    opacity: 1;
+}
+.n-contact-form-row input::-webkit-input-placeholder {
+    color: #5F8199;
+    opacity: 1;
+}
+.n-contact-form-container textarea::placeholder {
+    color: #5F8199;
+    opacity: 1;
+}
+.n-contact-form-container textarea::-moz-placeholder {
+    color: #5F8199;
+    opacity: 1;
+}
+.n-contact-form-container textarea::-webkit-input-placeholder {
+    color: #5F8199;
+    opacity: 1;
+}
+.n-select-form {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.n-select-form label {
+    position: relative;
+    z-index: 2;
+    line-height: 100%;
+}
+.n-select-form select {
+    position: absolute;
+    left: 0;
+    right: 0;
+    border: none;
+    text-align: right;
+    padding-right: 50px;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background-image: url('../images/ico-arrow-select.svg');
+    background-repeat: no-repeat;
+    background-position: right 15px center;
+    color: #5F8199;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+    font-family: 'League Spartan';
+    width: 100%;
+    background-color: transparent;
+}
+.n-select-form select option {
+    padding: 15px;
+}
+.n-contact-form-container textarea {
+    width: 100%;
+    box-sizing: border-box;
+    resize: none;
+    min-height: 126px;
+    border: none;
+    padding: 20px 40px;
+    border-radius: 5px;
+    font-family: 'League Spartan';
+    font-size: 18px;
+    font-weight: 700;
+}
+.n-contact-form .n-btn-green {
+    cursor: pointer;
+    border: none;
+    text-align: center;
+    margin: 50px auto;
+    display: block;
+    min-width: 272px;
+}
+.wpcf7-response-output,
+.screen-reader-response {
+    max-width: 1360px;
+    margin: 10px auto;
+    color: #5F8199;
+    font-weight: 700;
+}
+.screen-reader-response {
+    font-size: 16px;
+}
+.wpcf7-response-output {
+    font-size: 32px; 
+}
+.screen-reader-response p{
+  display: none;
+}
+div#map {
+    height: 800px;
+    border-radius: 12px;
+}
+.n-map {
+    position: relative;
+}
+.n-map::before {
+    content: '';
+    display: block;
+    position: absolute;
+    height: 50%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff;
+}
+.n-form-quiz {
+    margin-top: 20px;
+}
+.n-form-quiz .wpcf7-quiz {
+    border: none;
+    border-radius: 12px;
+    padding: 20px;
+    margin-left: 10px;
+    width: 60px;
+}
+@media (max-width:1400px) {
+    .n-contact-info-wrapper {
+        gap: 60px;
+    }
+}
+@media (max-width:1200px) {
+    .n-contact-title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .n-contact-content {
+        gap: 20px;
+    }
+    .n-contact-form {
+        padding-bottom: 60px;
+    }
+}
+@media (max-width:1024px) {
+    .n-contact-info {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .n-contact-info-wrapper {
+        gap: 40px;
+    }
+    .n-select-form {
+        flex-direction: column;
+    }
+    .n-select-form select {
+        position: static;
+        margin-top: 10px;
+        text-align: left;
+    }
+    .n-contact-form {
+        padding-bottom: 40px;
+    }
+    .n-dual-txt h3 {
+        margin-bottom: 30px;
+    }
+    div#map {
+        height: 600px;
+    }
+}
+@media (max-width:767px) {
+    .n-contact-info-wrapper {
+        gap: 20px;
+        flex-direction: column;
+    }
+    .n-contact-info-wrapper > div {
+        width: 100%;
+    }
+    .n-contact-title {
+        font-size: 26px;
+        line-height: 34px;
+    }
+    .n-contact-info {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .n-contact-form-row {
+        flex-direction: column;
+    }
+    .n-select-form,
+    .n-contact-form-container textarea,
+    .n-contact-form-row .n-form-bloc {
+        width: 100%;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+    .n-contact-form-row,
+    .n-contact-form-row input,
+    .n-contact-form-container textarea {
+        font-size: 16px;
+    }
+    .n-contact-form .n-btn-green {
+        margin: 20px auto;
+    }
+    div#map {
+        height: 400px;
+    }
+    .n-contact-form {
+        padding-bottom: 20px;
+    }
+    .n-banner-full .n-banner-title-content {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .n-dual-txt h3,
+    .n-wysiwyg-green strong {
+        margin-bottom: 20px;
+    }
+}

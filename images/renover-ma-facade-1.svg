@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="65.094" height="46.662" viewBox="0 0 86.342 61.601">
+  <g id="Groupe_139" data-name="Groupe 139" transform="translate(0.996 0.852)">
+    <g id="_009-house" data-name="009-house">
+      <path id="Tracé_235" data-name="Tracé 235" d="M60,32.812H55.781V19.845l1.9,1.066,2.293-4.088L46.406,9.211V0H41.718V6.582L30,.008.025,16.823l2.293,4.088,1.9-1.066V32.812H0V37.5H4.219V60H55.781V37.5H60ZM8.906,17.216,30,5.383,51.093,17.216v15.6H41.718V19.1H18.281V32.812H8.906Zm14.062,15.6V23.789h4.687v9.023Zm9.375-9.023h4.687v9.023H32.343Zm0,31.523H27.656V46.874h4.687Zm18.75,0H37.031V42.187H22.968V55.312H8.906V37.5H51.093Z" transform="translate(0 0)" fill="#3b4f66" stroke="#fff" stroke-width="1.5"></path>
+      <path id="Tracé_236" data-name="Tracé 236" d="M116,360h4.687v8.437H116Z" transform="translate(-102.406 -317.813)" fill="#3b4f66" stroke="#fff" stroke-width="1"></path>
+      <path id="Tracé_237" data-name="Tracé 237" d="M356,360h4.687v8.437H356Z" transform="translate(-314.282 -317.813)" fill="#3b4f66" stroke="#fff" stroke-width="1"></path>
+      <path id="Tracé_238" data-name="Tracé 238" d="M236,83h4.687v4.687H236Z" transform="translate(-208.344 -73.274)" fill="#3b4f66" stroke="#fff" stroke-width="1"></path>
+    </g>
+    <path id="Tracé_251" data-name="Tracé 251" d="M1338.125,922.033h11.25V908.414h21.513v13.618h11.448V904.862l-22.7-12.237-21.513,12.237Z" transform="translate(-1330.033 -888.48)" fill="#eb987a" stroke="#eb987a" stroke-width="0.5"></path>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(62.708 22.961)" fill="#fff" stroke="#eb987a" stroke-width="1.5">
+      <circle cx="11.319" cy="11.319" r="11.319" stroke="none"></circle>
+      <circle cx="11.319" cy="11.319" r="10.569" fill="none"></circle>
+    </g>
+    <path id="Tracé_441" data-name="Tracé 441" d="M1390.25,939.073v0Z" transform="translate(-1315.449 -880.479)" fill="none" stroke="#eb987a" stroke-width="1.5"></path>
+    <path id="Rectangle_124" data-name="Rectangle 124" d="M.75,0h0A.75.75,0,0,1,1.5.75V22.37a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V.75A.75.75,0,0,1,.75,0Z" transform="translate(74.027 36.225)" fill="#eb987a"></path>
+  </g>
+</svg>
